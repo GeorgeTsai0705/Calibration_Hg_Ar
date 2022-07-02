@@ -10,6 +10,6 @@
 	<Item Name="FWHM_cal.vi" Type="VI" URL="../Chip_Check.llb/FWHM_cal.vi"/>
 	<Item Name="ImageProcess.vi" Type="VI" URL="../Chip_Check.llb/ImageProcess.vi"/>
 	<Item Name="ImageProcess_findROI.vi" Type="VI" URL="../Chip_Check.llb/ImageProcess_findROI.vi"/>
-	<Item Name="Load_File.vi" Type="VI" URL="../Load_File.vi"/>
 	<Item Name="Ana;.vi" Type="VI" URL="../Chip_Check.llb/Ana;.vi"/>
+	<Item Name="Load_File.vi" Type="VI" URL="../Chip_Check.llb/Load_File.vi"/>
 </Library>
